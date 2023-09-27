@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MuhammadNaveedAshraf_Assignment_2</string>
+    <string name="mark_worms">Mark Worms</string>
+    <string name="ronny">Ronny</string>
+    <string name="jelly">Jelly</string>
+    <string name="mark">Mark</string>
+    <string name="monty">Monty</string>
+    <string name="mariya">Mariya</string>
+    <string name="washington">Washington dc</string>
+    <string name="follow">Follow</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="like">Like</string>
+    <string name="see_all">See All</string>
+    <string name="photos">Photos</string>
+    <string name="friends">Friends</string>
+    <string name="profile">Profile</string>
+</resources>
