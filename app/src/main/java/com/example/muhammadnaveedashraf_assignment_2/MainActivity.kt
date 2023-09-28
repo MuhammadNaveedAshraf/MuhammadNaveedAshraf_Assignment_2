@@ -440,7 +440,7 @@ fun TopBar( title: String, modifier: Modifier = Modifier){
 
 }
 
-@Preview(showBackground = true,)
+@Preview(showBackground = true, backgroundColor = 0xFF54D7F3)
 @Composable
 fun TopBarPreview(){
     MuhammadNaveedAshraf_Assignment_2Theme(){
